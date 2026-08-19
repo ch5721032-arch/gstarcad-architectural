@@ -22,7 +22,7 @@ Consistent layers and symbols make drawings easier to read, revise and hand off 
 
 ## Learning more
 
-Step-by-step architectural drafting guides are available in the [GstarCAD tutorials](https://www.gstarcad.net/tutorials/) and the [GstarCAD Blog](https://blog.gstarcad.net).
+Step-by-step architectural drafting guides are available in the [GstarCAD tutorials](https://www.gstarcad.net/cad/) and the [GstarCAD Blog](https://blog.gstarcad.net).
 
 ## License
 
